@@ -1,0 +1,6 @@
+@Gatewayjob_HostAddress = http://localhost:5108
+
+GET {{Gatewayjob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

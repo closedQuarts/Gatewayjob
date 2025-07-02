@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gatewayjob", "Gatewayjob\Gatewayjob.csproj", "{DBE1004A-EC0D-44CF-BF4D-37D5CCEB2E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE1004A-EC0D-44CF-BF4D-37D5CCEB2E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE1004A-EC0D-44CF-BF4D-37D5CCEB2E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE1004A-EC0D-44CF-BF4D-37D5CCEB2E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE1004A-EC0D-44CF-BF4D-37D5CCEB2E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA1F8CF-B618-4C93-996E-890671630F03}
+	EndGlobalSection
+EndGlobal
