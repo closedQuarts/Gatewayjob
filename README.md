@@ -34,7 +34,7 @@ Düzenle
           "Host": "jobfinderapi4458-d3g6fkgca2cfaahb.northeurope-01.azurewebsites.net",
           "Port": 443
         }
-      ],
+    ],
       "UpstreamPathTemplate": "/api/v1/{everything}",
       "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
     }
@@ -43,5 +43,7 @@ Düzenle
     "BaseUrl": "https://jobfindergateway-eshpcwedgjc6f6hs.northeurope-01.azurewebsites.net"
   }
 }
+
+
 🚀 Yayınlama
 Azure Portal üzerinden App Service olarak deploy edilmiştir.
